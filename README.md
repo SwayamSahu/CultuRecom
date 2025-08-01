@@ -25,7 +25,7 @@ _"I love cyberpunk films and matcha desserts"_ →
 
 ## The 3-Layer Architecture
 
-![Architecture Diagram](deepseek_mermaid_20250801_49b798.png)
+<img width="300" height="800" alt="deepseek_mermaid_20250801_49b798" src="https://github.com/user-attachments/assets/5a255495-cc24-495f-a3cc-e37ab69999c8" />
 
 ### Tech Stack
 
@@ -65,6 +65,7 @@ _"I love cyberpunk films and matcha desserts"_ →
 
 - **API orchestration is powerful**: Combining specialized APIs creates exponential value
 - \( \text{Innovation} = \sum (\text{API Strengths}) \times \text{Integration Creativity} \)
+- Innovation = ∑(API Strengths)×Integration Creativity
 - **Constraints breed creativity**: Limiting GPT outputs improved relevance dramatically
 - **Cultural AI requires humility**: Our initial Western bias was corrected through global testing
 - **Error handling is UX**: Graceful recovery ("Try broadening your query") builds trust
